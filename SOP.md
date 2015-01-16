@@ -24,7 +24,7 @@ describe as a phenomenal graduate experience. I've had the opportunity
 to work on interesting projects such as assembling and analyzing
 a terabyte sea lamprey mRNAseq data set, developing sequence analysis algorithms
 in our widely-used software package khmer, and helping to build a standard
-set of protocols for mRNAseq assembly and analysis. I've been able to partipate
+set of protocols for mRNAseq assembly and analysis. I've been able to participate
 in many training and outreach events, like our lab's annual summer Next Gen Sequencing
 workshop, the STAMPS workshop at the Marine Biological Lab, the workshop on Open Science
 at TGAC in Norwhich, and the Summer Research Opportunities statistics bootcamp for
